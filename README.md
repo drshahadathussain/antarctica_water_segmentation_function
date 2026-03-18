@@ -134,10 +134,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # ✏️ Citation
 
 If you use this project in your research, please cite:
-
+```
 text
 Antarctic Ice Shelf Water Segmentation Project, MATLAB Image Processing,
-https://github.com/yourusername/antarctic-ice-shelf-analysis
+https://github.com/drshahadathussain/antarctic-ice-shelf-analysis
+```
 
 # 📧 Contact
 
