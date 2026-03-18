@@ -37,9 +37,10 @@ antarctic-ice-shelf-analysis/
 # 🚀 Getting Started
 
 1. Clone the repository
-
-`bash`
-`git clone https://github.com/yourusername/antarctic-ice-shelf-analysis.git`
+```
+bash
+git clone https://github.com/yourusername/antarctic-ice-shelf-analysis.git
+```
 
 2. **Add your images** to the `images/` folder
 3. **Open MATLAB** and navigate to the project directory
@@ -61,7 +62,7 @@ colorThresholder(img);
 - **Lab**	Water has negative a* and b* values
 - **YCbCr**	Water has specific Cb (blue-difference) values
 
-# Workflow
+## Workflow
 
 1. Load satellite image in Color Thresholder
 2. Experiment with different color spaces
@@ -86,9 +87,9 @@ colorThresholder(img);
 - Start with HSV color space (most effective for water/ice separation)
 - Test your function on both images throughout development
 - Use morphological operations to clean up masks:
--- Remove small noise objects
--- Close small gaps in water regions
--- Fill holes within identified water areas
+  - Remove small noise objects
+  - Close small gaps in water regions
+  - Fill holes within identified water areas
 - Document threshold values that work well
 
 # 📈 Expected Outcomes
@@ -99,9 +100,9 @@ The analysis will yield:
 - Water coverage percentage for each image
 - Absolute and relative change in water area
 - Change map visualizing:
--- Water lost (present only in 2018)
--- Water gained (present only in 2020)
--- Persistent water (present in both years)
+  - Water lost (present only in 2018)
+  - Water gained (present only in 2020)
+  - Persistent water (present in both years)
 
 # 🌍 Scientific Context
 
