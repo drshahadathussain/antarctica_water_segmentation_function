@@ -123,6 +123,7 @@ Contributions to improve segmentation methods or documentation are welcome. Plea
 
 # 📚 References
 
+- [Introduction to Image Processing](https://www.coursera.org/learn/introduction-image-processing/)
 - [MATLAB Color Thresholder Documentation](https://www.mathworks.com/help/images/color-thresholder-app.html)
 - [NASA Climate Change Research](https://science.nasa.gov/climate-change/)
 - [National Snow and Ice Data Center](https://nsidc.org/home)
