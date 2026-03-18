@@ -141,6 +141,13 @@ text
 Antarctic Ice Shelf Water Segmentation Project, MATLAB Image Processing,
 https://github.com/drshahadathussain/antarctic-ice-shelf-analysis
 ```
+## About the Author
+
+**Dr. Shahadat Hussain**
+
+Researcher in 3D Printing & Materials Science. I use Image Processing to analyze material structures and 3D printing failure modes.
+
+🌐 [www.shahadathussain.com](https://www.shahadathussain.com) | ✍️ [Substack](https://drshahadathussain.substack.com)
 
 # 📧 Contact
 
